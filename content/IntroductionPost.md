@@ -11,4 +11,4 @@ Hi everyone! My name is Brittany, I am a senior majoring in ICT with a CS minor.
 ## Interesting Facts About Me
 I love fall and Halloween, so I am very excited that September is almost here. I love spending time outside and traveling (when we used to be able to do that). I am very excited that my family is getting a new French bulldog puppy named Nigel this weekend. I currently have two English bulldogs named Quincy(8) and Oscar(3). Another interesting fact is that my neighborhood is full of stray cats and I recently found a litter of kittens living in the sewer/run off drain right next to my house. I have seen 3 kittens at once so far, but I am not sure how many there actually are.
 
-*There is a little bit about me, I hope everyone has a great semester!*
+*There is a little bit about me, I am excited to learn more about everyone in this class and I hope everyone has a great semester!*
