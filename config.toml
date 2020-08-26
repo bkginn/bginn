@@ -1,6 +1,6 @@
 baseURL = "https://wizardly-blackwell-9d110c.netlify.app/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Brittany's Hugo Site"
 theme = "ananke"
 
 [build]
@@ -33,4 +33,10 @@ HUGO_VERSION = "0.74.3"
 
 [context.next.environment]
 HUGO_ENABLEGITINFO = "true"
+
+[params]
+[[menu.main]]
+name = "Introduction"
+weight = 1
+url = "/IntroductionPost/"
 
