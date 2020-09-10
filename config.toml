@@ -46,7 +46,12 @@ weight = 1
 url = "/AnnotatedDefinitions/"
 
 [[menu.main]]
-name = "Introduction"
+name = "Resource Guide"
 weight = 1
-url = "/IntroductionPost/"
+url = "/ResourceGuide/"
+
+[[menu.main]]
+name = "Walkthrough"
+weight = 1
+url = "/Walkthrough/"
 
