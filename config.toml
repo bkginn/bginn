@@ -40,3 +40,13 @@ name = "Introduction"
 weight = 1
 url = "/IntroductionPost/"
 
+[[menu.main]]
+name = "Annotated Definitions"
+weight = 1
+url = "/AnnotatedDefinitions/"
+
+[[menu.main]]
+name = "Introduction"
+weight = 1
+url = "/IntroductionPost/"
+
