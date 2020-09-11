@@ -10,8 +10,17 @@ Resource Guide Page
 <!--markup elements-->
 ## H2 Header
 
-* List 1
-* List 2
+* List 10 resources
+* 2
+* 3
+* 4
+* 5
+* 6
+* 7 
+* 8
+* 9
+* 10
+
 
 <!--media-->
 ![Writing pictures](https://wizardly-blackwell-9d110c.netlify.app/writing-5ee2dd4a4b_1280.jpg)
