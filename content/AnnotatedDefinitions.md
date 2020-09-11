@@ -38,4 +38,4 @@ Ea duo eruditi delenit neglegentur. Ea dicit delicatissimi nam, errem petentium 
 Enim nonumy argumentum sea cu, mea vidisse definiebas eu. Salutandi cotidieque vim ei, an vel vide.
 
 
-![Pictured: Girl Writing](
+![Pictured: Girl Writing]((https://wizardly-blackwell-9d110c.netlify.app/writing-5ee2dd4a4b_1280.jpg)
