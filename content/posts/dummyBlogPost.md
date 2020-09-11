@@ -12,7 +12,7 @@ Underline
 ---------
 
 <!-- media -->
-![Pictured: Girl Writing]()
+![Pictured: Girl Writing](https://wizardly-blackwell-9d110c.netlify.app/writing-5ee2dd4a4b_1280.jpg)
 
 <!-- 300 words -->
 Lorem ipsum dolor sit amet, ea epicurei comprehensam per. Id natum reformidans mei, sint omnesque salutatus qui ad. Mutat harum his et. Pri in nusquam sapientem, te cum vide nulla omnes, ne ludus nostro usu. Habemus mandamus efficiantur ea mel. Alienum oportere quaerendum at ius, nec ut reque tation.
