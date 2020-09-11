@@ -14,7 +14,7 @@ Resource Guide Page
 * List 2
 
 <!--media-->
-
+![Writing pictures](bginn/content/writing-5ee2dd4a4b_1280.jpg)
 <!--500 words-->
 Lorem ipsum dolor sit amet, eruditi percipitur efficiantur ne sed. Usu natum conceptam te, vim ea legere officiis philosophia. Nonumy option pertinax vix id, vis ei fugit facete. An amet rebum referrentur sed, pri unum eius evertitur id, primis integre complectitur nec in. His ei minim phaedrum antiopam, no voluptua antiopam eos, te qui congue vivendum tractatos. Te vix essent incorrupte, cum at rebum atomorum concludaturque. Ad eos iriure feugait omittantur.
 
