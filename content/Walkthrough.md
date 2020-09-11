@@ -1,4 +1,12 @@
-
+---
+title: "Introduction"
+date: 2020-08-24T00:00:00-04:00
+draft: false
+---
+![Pictured: Girl writing](https://wizardly-blackwell-9d110c.netlify.app/writing-5ee2dd4a4b_1280.jpg) 
+<!-- 2 mark up elements -->
+### H3 Header
+**bold text**
 
 
 <!-- 500 words-->
