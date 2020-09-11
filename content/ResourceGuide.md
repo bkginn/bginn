@@ -7,15 +7,15 @@ draft: false
 
 Resource Guide Page
 
-//markup elements
+<!--markup elements-->
 ## H2 Header
 
 * List 1
 * List 2
 
-//media
+<!--media-->
 
-//500 words
+<!--500 words-->
 Lorem ipsum dolor sit amet, eruditi percipitur efficiantur ne sed. Usu natum conceptam te, vim ea legere officiis philosophia. Nonumy option pertinax vix id, vis ei fugit facete. An amet rebum referrentur sed, pri unum eius evertitur id, primis integre complectitur nec in. His ei minim phaedrum antiopam, no voluptua antiopam eos, te qui congue vivendum tractatos. Te vix essent incorrupte, cum at rebum atomorum concludaturque. Ad eos iriure feugait omittantur.
 
 Eu putent detracto per, splendide pertinacia quo ex. Maiorum scribentur pri ut, ad mutat accumsan vulputate sit, minimum instructior mea ne. Has mutat mollis luptatum id, ne doctus facilis detracto qui. Id nonumes verterem his. Ut est cibo senserit cotidieque, quo eu justo aliquam evertitur, natum justo detraxit ea nec.
