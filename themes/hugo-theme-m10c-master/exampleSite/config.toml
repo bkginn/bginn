@@ -1,11 +1,11 @@
 baseURL = "https://example.com"
-title = "Your title"
+title = "Brittany's Hugo Site"
 themesDir = "../.."
 theme = "m10c"
 paginate = 5
 
 [params]
-  author = "John Doe"
+  author = "Brittany Ginn"
   description = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc vehicula turpis sit amet elit pretium."
   [[params.social]]
     name = "github"
